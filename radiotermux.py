@@ -15,7 +15,7 @@ def cor_amarela(texto):
 
 # Lista de estações de rádio e seus URLs
 estacoes = {
-    "1": {"89 A Rádio Rock": "Radio Rock", "url": "http://89cast.com.br:8000/stream"},
+    "1": {"nome": "Radio Rock", "url": "http://89cast.com.br:8000/stream"},
     "2": {"nome": "Jazz Radio", "url": "http://stream.laut.fm/jazzloft"},
     "3": {"nome": "Classic FM", "url": "http://media-ice.musicradio.com/ClassicFMMP3"},
     # Adicione mais estações conforme desejado
