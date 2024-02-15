@@ -15,9 +15,15 @@ def cor_amarela(texto):
 
 # Lista de estações de rádio e seus URLs
 estacoes = {
-    "1": {"nome": "Radio Rock", "url": "http://89cast.com.br:8000/stream"},
-    "2": {"nome": "Jazz Radio", "url": "http://stream.laut.fm/jazzloft"},
-    "3": {"nome": "Classic FM", "url": "http://media-ice.musicradio.com/ClassicFMMP3"},
+
+
+    "1": {"nome": "Classic Radio", "url": "https://www.youtube.com/live/bwZUs26HZI8"},
+    "2": {"nome": "House Radio", "url": "https://www.youtube.com/live/36YnV9STBqc"},
+    "3": {"nome": "Jazz Radio", "url": "https://www.youtube.com/live/Dx5qFachd3A"},
+    "4": {"nome": "Lo-fi Radio", "url": "https://www.youtube.com/live/jfKfPfyJRdk"},
+    "5": {"nome": "Pop Rock", "url": "https://www.youtube.com/live/XnUNOaxw6bs"},
+    "6": {"nome": "Rave Radio", "url": "https://www.youtube.com/live/34H1XIjnfKM"},
+    "7": {"nome": "Rap Radio", "url": "https://www.youtube.com/live/05689ErDUdM"},
     # Adicione mais estações conforme desejado
 }
 
