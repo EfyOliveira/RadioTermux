@@ -17,13 +17,15 @@ def cor_amarela(texto):
 estacoes = {
 
 
-    "1": {"nome": "Classic Radio", "url": "https://www.youtube.com/live/bwZUs26HZI8"},
-    "2": {"nome": "House Radio", "url": "https://www.youtube.com/live/36YnV9STBqc"},
-    "3": {"nome": "Jazz Radio", "url": "https://www.youtube.com/live/Dx5qFachd3A"},
-    "4": {"nome": "Lo-fi Radio", "url": "https://www.youtube.com/live/jfKfPfyJRdk"},
-    "5": {"nome": "Pop Rock", "url": "https://www.youtube.com/live/XnUNOaxw6bs"},
-    "6": {"nome": "Rave Radio", "url": "https://www.youtube.com/live/34H1XIjnfKM"},
-    "7": {"nome": "Rap Radio", "url": "https://www.youtube.com/live/05689ErDUdM"},
+    "1": {"nome": "Radio Antena !", "url": "https://antenaone.crossradio.com.br/stream/1"},
+    "2": {"nome": "89 FM Rádio Rock", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac"},
+    "3": {"nome": "Fita Cassete", "url": "https://server01.ouvir.radio.br:8018/stream?1707979108145"},
+    "4": {"nome": "Rádio Blues Jazz", "url": "https://stream-152.zeno.fm/d6dg4e0dytzuv?zs=vBNsuK47TA2jAbIyUeI-bw&1707979282390"},
+    "5": {"nome": "Apenas Acústico", "url": "http://server02.ouvir.radio.br:8100/stream?1707979467275"},
+    "6": {"nome": "Rádio Energia 97.7 FM", "url": "https://streaming.inweb.com.br/energia?1707979611615"},
+    "7": {"nome": "Rádio Hits 106.9 FM", "url": "https://wz7.servidoresbrasil.com:9984/stream?1707979808220"},
+    "8": {"nome": "Rádio Jovem Pan 89.5 FM", "url": "https://top80.com.br:9000/stream"},
+    "9": {"nome": "Rádio Hot 107 FM", "url": "https://9772.brasilstream.com.br/stream?1707980195817"},
     # Adicione mais estações conforme desejado
 }
 
