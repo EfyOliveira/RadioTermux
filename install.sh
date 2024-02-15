@@ -21,7 +21,6 @@ sleep 4
 echo -e "\e[1;92m Finalizamos a primeira parte. Vamos continuar!"
 echo -e "\e[1;93m Instalando o mpv e o mplayer..."
 echo -e "\e[1;92m Se a instalação parar e lhe for pedido alguma coisa, basta aceitar digitando 'Y' e clicando em enter."
-clear
 
 sleep 4
 cd ~
