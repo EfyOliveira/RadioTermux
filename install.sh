@@ -26,7 +26,8 @@ sleep 4
 cd ~
 pkg inatall mpv -y
 pkg install mplayer -y
-pkg install youtube-dl -y
+pip install youtube-dl -y
+python -m pip install -U yt-dlp
 clear
 
 echo -e "\e[1;92m É isso! Você instalou e atualizou o necessario para começar o uso."
