@@ -18,7 +18,7 @@ estacoes = {
 
 
     "1": {"nome": "Radio Antena !", "url": "https://antenaone.crossradio.com.br/stream/1"},
-    "2": {"nome": "89 FM Rádio Rock", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac"},
+    "2": {"nome": "89 FM Rádio Rock", "url": "https://www.radios.com.br/play/playlist/31289/listen-radio.m3u"},
     "3": {"nome": "Fita Cassete", "url": "https://server01.ouvir.radio.br:8018/stream?1707979108145"},
     "4": {"nome": "Rádio Blues Jazz", "url": "https://stream-152.zeno.fm/d6dg4e0dytzuv?zs=vBNsuK47TA2jAbIyUeI-bw&1707979282390"},
     "5": {"nome": "Apenas Acústico", "url": "http://server02.ouvir.radio.br:8100/stream?1707979467275"},
